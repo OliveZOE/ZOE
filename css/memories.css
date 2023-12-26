@@ -441,7 +441,7 @@
 	.ly-txt02 {
 		position:absolute;
 		width: 40%;
-		left:70%;
+		left:60%;
 		top:10%;
 	}
 }
@@ -457,7 +457,7 @@
 	.ly-txt02 {
 		position:absolute;
 		width: 40%;
-		left:70%;
+		left:60%;
 		top:50%;
 	}
 
@@ -1497,7 +1497,7 @@
 		margin-left: 24px;
 		position: absolute;
 		right: 77%;
-		top: 14%;
+		top: 25%;
 		opacity: 0;
 		-webkit-transform: scale(0.5, 0.5);
 		transform: scale(0.5, 0.5);
@@ -1678,7 +1678,7 @@
 	font-color: #000;
 	position: absolute;
 	left: 15%;
-	top: 8%;
+	top: 5%;
 	opacity: 0;
 	transition: all 0.5s;
 }
@@ -1696,7 +1696,7 @@
 	font-color: #000;
 	position: absolute;
 	left: 15%;
-	top: 15%;
+	top: 10%;
 	opacity: 0;
 	transition: all 1s;
 }
@@ -2721,7 +2721,7 @@
 /*移动端 */
 @media screen and (max-aspect-ratio: 3/4) {
 	.ly-box81 {
-		width: 35%;
+		width: 100%;
 		height: 30%;
 		border: 2px #CCC;
 		background-color: #fff;
