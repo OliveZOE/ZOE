@@ -450,14 +450,14 @@
 	.ly-txt01 {
 		position:absolute;
 		width: 40%;
-		left:10%;
+		left:30%;
 		top:5%;
 	}
 	
 	.ly-txt02 {
 		position:absolute;
 		width: 40%;
-		left:15%;
+		left:70%;
 		top:50%;
 	}
 
@@ -2204,7 +2204,7 @@
 		border-radius: 8px;
 		position: absolute;
 		left: 23%;
-		top:50%;
+		top:15%;
 		overflow: hidden;
 		opacity: 0;
 		-webkit-transform: scale(0.5, 0.5);
